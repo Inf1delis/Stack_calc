@@ -1,0 +1,10 @@
+define a 4
+define b 5
+push b
+push a
+push 4
+sqrt
+multiply
+multiply
+print
+exit
